@@ -8,6 +8,14 @@ If goal is met, NFT certificate creates an NFT collection that represents the go
 The DAOs unlocks the funds for the research and the work can begin.
 
 
+
+Create DAO.
+Create NFT for project.
+Create Pool to fund for 
+If required fund reached, the DAO buys the NFT to unlock the funds.
+If not met, refund and NFT is burned.
+
+
 Steps:
 
 1. Propose Project.
