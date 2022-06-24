@@ -1,0 +1,9 @@
+.App {
+	display: flex;
+	justify-content: space-between;
+}
+
+.navbar {
+	float: right;
+	padding: 15px 30px;
+}
