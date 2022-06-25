@@ -1,0 +1,46 @@
+.rightbarContent {
+	padding: 25px;
+	width: 100%;
+	float: right;
+}
+
+.trends {
+	background-color: white;
+	border-radius: 25px;
+	min-height: calc(100vh - 200px);
+	max-width: 290px;
+	margin-top: 40px;
+	padding: 10px;
+	font-weight: bold;
+	font-size: 18px;
+	overflow: hidden;
+	color: black;
+}
+
+.connectButton {
+	float: right;
+}
+
+.trend {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	gap: 20px;
+	margin-top: 15px;
+}
+
+.trendImg {
+	width: 100px;
+	border-radius: 3px;
+}
+
+.trendText {
+	font-size: 15px;
+	font-weight: normal;
+}
+
+.more {
+	font-size: 15px;
+	font-weight: normal;
+	color: #f0f4f7;
+}

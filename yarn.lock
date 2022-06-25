@@ -2428,10 +2428,10 @@
     prop-types "^15.8.1"
     react-is "^17.0.2"
 
-"@mui/icons-material@^5.8.0":
-  version "5.8.2"
-  resolved "https://registry.yarnpkg.com/@mui/icons-material/-/icons-material-5.8.2.tgz#211ac2a041ece952749d39c3c26071226993be14"
-  integrity sha512-fP6KUCCZZjc2rdbMSmkNmBHDskLkmP0uCox57cbVXvomU6BOPrCxnr5YXsSsQrZB8fchx7hfH0bkAgvMZ5KM0Q==
+"@mui/icons-material@^5.8.4":
+  version "5.8.4"
+  resolved "https://registry.yarnpkg.com/@mui/icons-material/-/icons-material-5.8.4.tgz#3f2907c9f8f5ce4d754cb8fb4b68b5a1abf4d095"
+  integrity sha512-9Z/vyj2szvEhGWDvb+gG875bOGm8b8rlHBKOD1+nA3PcgC3fV6W1AU6pfOorPeBfH2X4mb9Boe97vHvaSndQvA==
   dependencies:
     "@babel/runtime" "^7.17.2"
 
@@ -11750,7 +11750,7 @@ react-is@^18.0.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-18.1.0.tgz#61aaed3096d30eacf2a2127118b5b41387d32a67"
   integrity sha512-Fl7FuabXsJnV5Q1qIOQwx/sagGF18kogb4gpfcG4gjLBWO0WDiiz1ko/ExayuxE7InyQkBLkxRFG5oxY6Uu3Kg==
 
-react-moralis@^1.3.5:
+react-moralis@^1.3.5, react-moralis@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/react-moralis/-/react-moralis-1.4.0.tgz#782b17b01666d8da0f2d92951ca1371e4d2e089e"
   integrity sha512-NYt/LMARpWVLQ/giWQllu2lZxNHfq/EzKmGz7n5HQ7DQBQwfRpZUv8dwvx6phlC8yNdp6osMP8Y0vnh4+Sf2qQ==
@@ -14071,10 +14071,10 @@ web3-utils@1.7.3, web3-utils@^1.7.3:
     randombytes "^2.1.0"
     utf8 "3.0.0"
 
-web3uikit@^0.1.112:
-  version "0.1.155"
-  resolved "https://registry.yarnpkg.com/web3uikit/-/web3uikit-0.1.155.tgz#91c96516592e54df26c8f033f0c5332fcc3529ed"
-  integrity sha512-IeIW67rR9+GS4R1RtwFwBNIEKpTJg1jmmUMqE/BMTxOUyloX87W3DLd2JmtDwuw1CtdqqXnJGl/tlsC1COWFYA==
+web3uikit@^0.1.161:
+  version "0.1.161"
+  resolved "https://registry.yarnpkg.com/web3uikit/-/web3uikit-0.1.161.tgz#397d1e52d5dc401227fbf7112f8325c577c6b373"
+  integrity sha512-RvVAZgcLXjmVAfmyW/a+z1FrKG6/KIvHInzCyBYKK9tratcOR1IEVhByMsVcavYmQMwd/UCXv6MWotd5m0zGbA==
   dependencies:
     "@storybook/theming" "^6.4.21"
     "@walletconnect/web3-provider" "^1.7.1"
