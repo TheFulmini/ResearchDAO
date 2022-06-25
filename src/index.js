@@ -42,9 +42,9 @@ root.render(
 		<Router>
 			<MoralisProvider
 				initializeOnMount
-				masterKey={process.env.MASTER_KEY}
-				appId={process.env.APPID}
-				serverUrl={process.env.SERVER_URL}
+				masterKey={"06wJSVVrG6RBondEbvgvvso7yxzUSW2vF38GGKKk"}
+				appId={"Xxs39BKSPLWSGs4OHnObk6z6uDk009cqkMm9X1zr"}
+				serverUrl={"https://8ocr6axihkqa.usemoralis.com:2053/server"}
 			>
 				<WagmiConfig client={wagmiClient}>
 					<RainbowKitProvider chains={chains}>
